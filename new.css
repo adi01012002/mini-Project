@@ -1,0 +1,37 @@
+#header{
+    background-color: orange;
+    
+}
+.white{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+a.nav-link:hover{
+    background-color: brown;
+}
+#banner{
+    background-image: url('img.jpg');
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.head_title{
+    background-color:rgba(255,255,255, 0.7);
+    margin-bottom: 0px;
+}
+.head_para{
+    background-color: coral;
+    margin-top: 0px;
+}
+i.fa-solid{
+    color: brown;
+    font-size: 45px;
+}
+.middle{
+    /* padding-top: 50px; */
+    text-align: center;
+}

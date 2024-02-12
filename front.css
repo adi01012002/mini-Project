@@ -1,0 +1,25 @@
+#banner {
+    background-color: #0B60B0;
+}
+
+i.fa-solid {
+    color: #000000;
+    font-size: 45px;
+}
+
+.middle {
+    /* padding-top: 50px; */
+    text-align: center;
+}
+
+img {
+    height: 65px;
+    width: 65px;
+    align-items: center;
+}
+.more{
+    text-decoration: none;
+}
+.card:hover {
+    box-shadow: 0px 0px 5px 1px rgb(33, 16, 54);
+}
